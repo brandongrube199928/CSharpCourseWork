@@ -1,7 +1,7 @@
 ﻿// Shell Module 2: Console Calculator
 // Created By: Brandon Grube
 // Redesign later by condensing into a 15 <-> 70 line program to iterate your own knowledge of C# and programming.
-// Date Created: 1/31/2926
+// Date Edited: 1/31/2926
 using System.Globalization;
 using System.Numerics;
 using System.Runtime.Intrinsics.Arm;
@@ -77,11 +77,11 @@ class Program {
                     break;
 
                 case "exit":
-                    Console.WriteLine("Have a nice day");
+                    Console.WriteLine("Thank you for using our program. Have a wonderful day or night.");
                     return;
 
                 default:
-                    Console.WriteLine("Invalid input; please try again");
+                    Console.WriteLine("Invalid input; please try again.");
                     break;
             }
 
@@ -121,14 +121,14 @@ class Program {
             string input = Console.ReadLine();
             if (double.TryParse(input, NumberStyles.Float, CultureInfo.InvariantCulture, out var value))
                 return value;
-            Console.WriteLine("Invalid number. Please try again");
+            Console.WriteLine("Invalid number. Please try again.");
         }
     }
 
     // Addition
     public static double Add() {
-        double a = ReadDouble("Enter the first number");
-        double b = ReadDouble("Enter ther second number");
+        double a = ReadDouble("Enter the first number.");
+        double b = ReadDouble("Enter the second number.");
         double result = a + b;
         Console.WriteLine($"Result: {a} + {b} = {result}");
         return result;
@@ -180,7 +180,7 @@ class Program {
         return result;
     }
 
-    // Acquire numerical average
+    // Average
     private static double Average() {
         double a = ReadDouble("Enter first number");
         double b = ReadDouble("Enter the second number");
