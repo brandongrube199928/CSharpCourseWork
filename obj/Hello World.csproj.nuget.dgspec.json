@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\Hello World\\Hello World.csproj": {}
+    "C:\\Users\\Ghost\\source\\repos\\CSharpCourseWork\\Hello World.csproj": {}
   },
   "projects": {
-    "E:\\Development\\Hello World\\Hello World.csproj": {
+    "C:\\Users\\Ghost\\source\\repos\\CSharpCourseWork\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\Hello World\\Hello World.csproj",
+        "projectUniqueName": "C:\\Users\\Ghost\\source\\repos\\CSharpCourseWork\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "E:\\Development\\Hello World\\Hello World.csproj",
+        "projectPath": "C:\\Users\\Ghost\\source\\repos\\CSharpCourseWork\\Hello World.csproj",
         "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\Hello World\\obj\\",
+        "outputPath": "C:\\Users\\Ghost\\source\\repos\\CSharpCourseWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
