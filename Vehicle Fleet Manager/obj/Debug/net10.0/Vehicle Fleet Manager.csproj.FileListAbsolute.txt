@@ -1,0 +1,14 @@
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\bin\Debug\net10.0\Vehicle Fleet Manager.exe
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\bin\Debug\net10.0\Vehicle Fleet Manager.deps.json
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\bin\Debug\net10.0\Vehicle Fleet Manager.runtimeconfig.json
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\bin\Debug\net10.0\Vehicle Fleet Manager.dll
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\bin\Debug\net10.0\Vehicle Fleet Manager.pdb
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.AssemblyInfoInputs.cache
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.AssemblyInfo.cs
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.dll
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\refint\Vehicle Fleet Manager.dll
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.pdb
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\Vehicle Fleet Manager.genruntimeconfig.cache
+C:\Users\Ghost\Documents\VS Projects\Vehicle Fleet Manager\obj\Debug\net10.0\ref\Vehicle Fleet Manager.dll

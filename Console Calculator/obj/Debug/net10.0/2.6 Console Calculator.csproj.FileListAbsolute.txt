@@ -1,0 +1,14 @@
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\bin\Debug\net10.0\2.6 Console Calculator.exe
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\bin\Debug\net10.0\2.6 Console Calculator.deps.json
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\bin\Debug\net10.0\2.6 Console Calculator.runtimeconfig.json
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\bin\Debug\net10.0\2.6 Console Calculator.dll
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\bin\Debug\net10.0\2.6 Console Calculator.pdb
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.AssemblyInfoInputs.cache
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.AssemblyInfo.cs
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.dll
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\refint\2.6 Console Calculator.dll
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.pdb
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\2.6 Console Calculator.genruntimeconfig.cache
+C:\Users\Ghost\Documents\VS Projects\CSharpCourseWork-main\CSharpCourseWork-main\2.6 Console Calculator\obj\Debug\net10.0\ref\2.6 Console Calculator.dll

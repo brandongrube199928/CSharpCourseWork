@@ -1,0 +1,14 @@
+C:\Users\Ghost\GradebookSolution\GradebookApp\bin\Debug\net10.0\GradebookApp.exe
+C:\Users\Ghost\GradebookSolution\GradebookApp\bin\Debug\net10.0\GradebookApp.deps.json
+C:\Users\Ghost\GradebookSolution\GradebookApp\bin\Debug\net10.0\GradebookApp.runtimeconfig.json
+C:\Users\Ghost\GradebookSolution\GradebookApp\bin\Debug\net10.0\GradebookApp.dll
+C:\Users\Ghost\GradebookSolution\GradebookApp\bin\Debug\net10.0\GradebookApp.pdb
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.AssemblyInfoInputs.cache
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.AssemblyInfo.cs
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.dll
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\refint\GradebookApp.dll
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.pdb
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\GradebookApp.genruntimeconfig.cache
+C:\Users\Ghost\GradebookSolution\GradebookApp\obj\Debug\net10.0\ref\GradebookApp.dll

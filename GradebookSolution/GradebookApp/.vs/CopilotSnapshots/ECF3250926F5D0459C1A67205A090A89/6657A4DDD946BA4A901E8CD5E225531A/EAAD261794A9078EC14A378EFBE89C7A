@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GradebookApp
+{
+    public class Gradebook
+    {
+        // Class variable list to store grades
+        private readonly List<double> grades = new(); // Calls the constructor for a blank list
+
+        // Add a single grade
+        public void AddGrade(double grade)
+        {
+            if (grade < 0 || grade > 100)
+                throw new ArgumentOutOfRangeException(nameof(grade), "Grade must be between 0 and 100.");
+
+            grades.Add(grade);
+        }
+
+
+        // Overload method: add multiple grades at once
+        public void Add(IEnumerable<double> grades)
+        {
+            foreach (var g in grades)
+                AddGrade(g);
+        }
+        // Get Average Method
+
+        //Get Highest Grade Method
+
+        // Get Lowest Grade Method
+
+        // Get Count Method
+
+        // Clear all grades method
+    }
+}

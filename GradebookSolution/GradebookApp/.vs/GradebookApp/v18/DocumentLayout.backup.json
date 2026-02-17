@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ghost\\GradebookSolution\\GradebookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B58A2-9017-A15A-0DA0-937B96ADAB84}|GradebookApp.csproj|c:\\users\\ghost\\gradebooksolution\\gradebookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B58A2-9017-A15A-0DA0-937B96ADAB84}|GradebookApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52B58A2-9017-A15A-0DA0-937B96ADAB84}|GradebookApp.csproj|c:\\users\\ghost\\gradebooksolution\\gradebookapp\\gradebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52B58A2-9017-A15A-0DA0-937B96ADAB84}|GradebookApp.csproj|solutionrelative:gradebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\GradebookSolution\\GradebookApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ghost\\GradebookSolution\\GradebookApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:52:59.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gradebook.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\GradebookSolution\\GradebookApp\\Gradebook.cs",
+              "RelativeDocumentMoniker": "Gradebook.cs",
+              "ToolTip": "C:\\Users\\Ghost\\GradebookSolution\\GradebookApp\\Gradebook.cs",
+              "RelativeToolTip": "Gradebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T23:43:46.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
