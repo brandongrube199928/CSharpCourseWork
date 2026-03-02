@@ -22,8 +22,8 @@ public class Program
             Console.WriteLine("3. Display All Tickets");
             Console.WriteLine("4. Close Ticket");
             Console.WriteLine("5. Reopen Ticket");
-            Console.WriteLine("6. Load Tickets to File");
-            Console.WriteLine("7. Save Tickets from File");
+            Console.WriteLine("6. Save Tickets to File");
+            Console.WriteLine("7. Load Tickets from File");
             Console.WriteLine("9. Exit");
             Console.Write("Choose an option: ");
             string? choice = Console.ReadLine().Trim();
@@ -35,8 +35,8 @@ public class Program
                 case "3": manager.DisplayAllTickets();break;
                 case "4": ChangeStatusMenu(manager, close: true); break;
                 case "5": ChangeStatusMenu(manager, close: false); break;
-                case "6": LoadMenu(manager); break;
-                case "7": SaveMenu(manager); break;
+                case "6": SaveMenu(manager); break;
+                case "7": LoadMenu(manager); break;
                 case "8":
                     Console.WriteLine($"Open / In Progress Tickets: {manager.GetOpenCount()}");
                     break;
