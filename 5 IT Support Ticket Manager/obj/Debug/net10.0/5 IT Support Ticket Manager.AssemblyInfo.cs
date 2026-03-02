@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5 IT Support Ticket Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ae78939ee48bdaafe56fa20920c623c1b89411c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be5f0974493e96bf76fe9fe1e879652eb00f755")]
 [assembly: System.Reflection.AssemblyProductAttribute("5 IT Support Ticket Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5 IT Support Ticket Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
