@@ -1,4 +1,4 @@
-﻿using _5_IT_Support_Ticket_Manager;
+using _5_IT_Support_Ticket_Manager;
 
 // Project: IT Support Ticket Manager
 // Main Module to run the program and handle user input
@@ -24,9 +24,10 @@ public class Program
             Console.WriteLine("5. Reopen Ticket");
             Console.WriteLine("6. Save Tickets to File");
             Console.WriteLine("7. Load Tickets from File");
+            Console.WriteLine("8. Count Open/In Progress Tickets");
             Console.WriteLine("9. Exit");
             Console.Write("Choose an option: ");
-            string? choice = Console.ReadLine().Trim();
+            string choice = Console.ReadLine()?.Trim() ?? "";
 
             switch (choice)
             {
@@ -77,7 +78,8 @@ public class Program
         Console.Write($"Enter Ticket ID to {(close ? "close" : "reopen")}: ");
         string id = Console.ReadLine() ?? "";
         var t = manager.FindTicket(id);
-        if (t is null) {Console.WriteLine("Not Found."); return; }
+        if (t is null) { Console.WriteLine("Not Found."); return; }
+        if (close) t.CloseTicket(); else t.ReopenTicket();
         Console.WriteLine("Status Updated.");
     }
 
@@ -123,7 +125,7 @@ public class Program
         if (s == "medium" || s == "med") return "Medium";
         if (s == "high") return "High";
         if (s == "open") return "Open";
-        if (s == "In Progress" || s == "in-progress" || s == "progress") return "In Progress";
+        if (s == "in progress" || s == "in-progress" || s == "progress") return "In Progress";
         if (s == "closed" || s == "close") return "Closed";
         return input.Trim(); //leave as is; let validation handle it
     }
