@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ghost\\Documents\\VS Projects\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj": {}
+    "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ghost\\Documents\\VS Projects\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj": {
+    "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ghost\\Documents\\VS Projects\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj",
+        "projectUniqueName": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj",
         "projectName": "Vehicle Fleet Manager",
-        "projectPath": "C:\\Users\\Ghost\\Documents\\VS Projects\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj",
+        "projectPath": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\Vehicle Fleet Manager\\Vehicle Fleet Manager.csproj",
         "packagesPath": "C:\\Users\\Ghost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ghost\\Documents\\VS Projects\\Vehicle Fleet Manager\\obj\\",
+        "outputPath": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\Vehicle Fleet Manager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

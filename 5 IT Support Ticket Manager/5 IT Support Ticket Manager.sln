@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 IT Support Ticket Manager", "5 IT Support Ticket Manager.csproj", "{B365FDDC-B793-3D83-1476-687EC79A7D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B365FDDC-B793-3D83-1476-687EC79A7D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B365FDDC-B793-3D83-1476-687EC79A7D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B365FDDC-B793-3D83-1476-687EC79A7D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B365FDDC-B793-3D83-1476-687EC79A7D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D8F1FD-C027-4ADC-9961-8D493C461392}
+	EndGlobalSection
+EndGlobal

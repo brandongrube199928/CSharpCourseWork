@@ -1,19 +1,51 @@
 #!/bin/bash
 # quick_commit.sh
-# Usage: ./quick_commit.sh "Commit message"
+# Usage:
+#   ./quick_commit.sh "Commit message"
 
-# Check for commit message
+set -e  # Stop on first error
+
+REPO_URL="https://github.com/brandongrube199928/CSharpCourseWork.git"
+
+# Validate commit message
 if [ -z "$1" ]; then
   echo "Error: Commit message required."
-  echo "Usage: ./quick_commit.sh \"Your commit message\""
+  echo "Usage: ./quick_commit.sh \"Commit message\""
   exit 1
 fi
 
-# Stage all changes in Main folder
+COMMIT_MSG="$1"
+
+echo "Using remote: $REPO_URL"
+
+# Initialize repo if not already initialized
+if [ ! -d ".git" ]; then
+  echo "Initializing new Git repository…"
+  git init
+  git branch -M main
+fi
+
+# Add remote if not already set
+if ! git remote get-url origin > /dev/null 2>&1; then
+  echo "Adding remote origin…"
+  git remote add origin "$REPO_URL"
+else
+  echo "Remote already configured."
+fi
+
+# Stage all changes
 git add .
 
-# Commit with provided message
-git commit -m "$1"
+# Only commit if there are staged changes
+if git diff --cached --quiet; then
+  echo "No changes to commit."
+else
+  echo "Committing…"
+  git commit -m "$COMMIT_MSG"
+fi
 
 # Push to GitHub
-git push
+echo "Pushing to origin/main…"
+git push -u origin main
+
+echo "Done!"
