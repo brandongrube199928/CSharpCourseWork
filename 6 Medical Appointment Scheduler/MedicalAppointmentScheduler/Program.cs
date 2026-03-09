@@ -172,32 +172,39 @@ namespace MedScheduler
         {
             //convert all of the appointments into the scheduler into a list and store this in a var
             //If the list is empty, report this to the user and return
-
+            var list = scheduler.All().ToList();
+            if (!list.Any()) { Console.WriteLine("No appointments scheduled."); return; }
             //If not, use a foreach to write the contents of the list below this line-
             Console.WriteLine("\n--- All Appointments ---");
+            foreach (var a in list) Console.WriteLine(a);
 
         }
 
         private static void ListByProviderMenu(AppointmentScheduler scheduler)
         {
             //Use Prompt() to get the provider's name from the end user
+            string provider = Prompt("Provider Name: ");
             //Then store the list by provider in a var
+            var list = scheduler.ListByProvider(provider).ToList();
             //If the var is empty, report this to the end user
-
+            if (!list.Any()) { Console.WriteLine("No appointments found for this provider."); return; }
             //If not, use a foreach to write all appointments below this line-
             Console.WriteLine($"\n--- Appointments for {provider} ---");
+            foreach (var a in list) Console.WriteLine(a);
 
         }
 
         private static void ListByDayMenu(AppointmentScheduler scheduler)
         {
             //Use the PromptDateTime method and store the value in a var. Use .Date to get the day
+            var day = PromptDateTime("Day (yyyy-MM-dd 00:00): ").Date;
             //Store the value of ListByDay(day).ToList() in a var
+            var list = scheduler.ListByDay(day).ToList();
             //Report if there are no dates that day and return
-
-
+            if (!list.Any()) { Console.WriteLine("No appointments found for this date."); return; }
             //If not, use a foreach to write the list of all appointments below this line-
             Console.WriteLine($"\n--- Appointments on {day:yyyy-MM-dd} ---");
+            foreach (var a in list) Console.WriteLine(a);
 
         }
 
