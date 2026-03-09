@@ -1,0 +1,15 @@
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\bin\Debug\net10.0\MedicalAppointmentScheduler.exe
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\bin\Debug\net10.0\MedicalAppointmentScheduler.deps.json
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\bin\Debug\net10.0\MedicalAppointmentScheduler.runtimeconfig.json
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\bin\Debug\net10.0\MedicalAppointmentScheduler.dll
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\bin\Debug\net10.0\MedicalAppointmentScheduler.pdb
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.AssemblyInfoInputs.cache
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.AssemblyInfo.cs
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.sourcelink.json
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.dll
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\refint\MedicalAppointmentScheduler.dll
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.pdb
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\MedicalAppointmentScheduler.genruntimeconfig.cache
+C:\Users\Ghost\Documents\VS Projects\Main\6 Medical Appointment Scheduler\MedicalAppointmentScheduler\obj\Debug\net10.0\ref\MedicalAppointmentScheduler.dll
