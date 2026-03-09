@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\appointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:appointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|c:\\users\\ghost\\documents\\vs projects\\main\\6 medical appointment scheduler\\medicalappointmentscheduler\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E63E7ED-2DF6-406D-E33C-024FD590607A}|MedicalAppointmentScheduler.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppointmentScheduler.cs",
-              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\AppointmentScheduler.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler.cs",
-              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\AppointmentScheduler.cs",
-              "RelativeToolTip": "AppointmentScheduler.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAASwEQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T00:59:51.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Logger.cs",
-              "RelativeDocumentMoniker": "Logger.cs",
-              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Logger.cs",
-              "RelativeToolTip": "Logger.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T00:54:16.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Exceptions.cs",
-              "RelativeDocumentMoniker": "Exceptions.cs",
-              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Exceptions.cs",
-              "RelativeToolTip": "Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T00:48:14.607Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Appointment.cs",
-              "RelativeDocumentMoniker": "Appointment.cs",
-              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Appointment.cs",
-              "RelativeToolTip": "Appointment.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDQAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T00:28:33.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKYAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T00:25:06.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\AppointmentScheduler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler.cs",
+              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\AppointmentScheduler.cs",
+              "RelativeToolTip": "AppointmentScheduler.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwFMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:59:51.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:54:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions.cs",
+              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Exceptions.cs",
+              "RelativeToolTip": "Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:48:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "C:\\Users\\Ghost\\Documents\\VS Projects\\Main\\6 Medical Appointment Scheduler\\MedicalAppointmentScheduler\\Appointment.cs",
+              "RelativeToolTip": "Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T00:28:33.401Z",
               "EditorCaption": ""
             }
           ]

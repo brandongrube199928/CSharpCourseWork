@@ -37,7 +37,7 @@ namespace MedScheduler
         public bool Cancel(string id)
         {
             var appt = _appointments.FirstOrDefault(a => a.Id.Equals(id, StringComparison.OrdinalIgnoreCase));
-            if (appt != null) return false;
+            if (appt == null) return false;
 
             _appointments.Remove(appt);
             Logger.Info($"Canceled {appt}");
@@ -72,14 +72,19 @@ namespace MedScheduler
         public IEnumerable<Appointment> ListByDay(DateTime day)
         {
             //Create a variable that gets day.Date from the DateTime in the Parameter.
-			//Then return the readonly list ordered by Start Date on the same day
-			
+            //Then return the readonly list ordered by Start Date on the same day
+            var date = day.Date;
+            return _appointments.Where(a => a.Start.Date == date)
+                .OrderBy(a => a.Start);
+
         }
 
 		//Create a public IEnumarable of Appointments named All(). Return the list ordered by start time
+        public IEnumerable<Appointment> All()
+            => _appointments.OrderBy(a => a.Start);
 
 
-		//!!! You should not modify anything below this line
+        //!!! You should not modify anything below this line
         // ---------- Business Rules ----------
 
         private void ValidateTimeRules(DateTime start, DateTime end)
