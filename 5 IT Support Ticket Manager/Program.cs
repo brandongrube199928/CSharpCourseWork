@@ -1,4 +1,4 @@
-﻿using _5_IT_Support_Ticket_Manager;
+using _5_IT_Support_Ticket_Manager;
 
 // Project: IT Support Ticket Manager
 // Main Module to run the program and handle user input
