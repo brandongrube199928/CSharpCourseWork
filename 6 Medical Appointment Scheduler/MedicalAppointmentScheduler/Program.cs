@@ -222,11 +222,18 @@ namespace MedScheduler
         {
             Console.Write(label);
             var s = Console.ReadLine();
-            if (!DateTime.TryParseExact(s, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture,
+            var input = (s ?? string.Empty).Trim();
+
+            // If user only supplied a year (e.g., "2026"), provide a clear message
+            if (input.Length == 4 && int.TryParse(input, out _))
+                throw new ArgumentException("You did not state the full date.");
+
+            if (!DateTime.TryParseExact(input, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture,
                                         DateTimeStyles.None, out var dt))
             {
                 throw new ArgumentException("Invalid date/time format. Use yyyy-MM-dd HH:mm (e.g., 2025-11-15 09:30).");
             }
+
             return dt;
         }
     }
